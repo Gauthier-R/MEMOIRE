@@ -1,9 +1,182 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0 (Edition std-2)" version="26.2.14">
   <diagram name="Page-1" id="BM_IvEIm8Wbc1WpMuyv8">
-    <mxGraphModel>
+    <mxGraphModel dx="2285" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-3" target="VfXzXKlpWksc_kGtRrbi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-3" target="VfXzXKlpWksc_kGtRrbi-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-3" target="VfXzXKlpWksc_kGtRrbi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-3" target="VfXzXKlpWksc_kGtRrbi-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-3" value="Problématique :&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Quelles sont les procédures et initiatives à mettre en place dans la gouvernance des données massives (Big Data) afin de garantir des solutions BI fiables et durables ?&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FF9933);" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="370" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-4" target="VfXzXKlpWksc_kGtRrbi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-4" target="VfXzXKlpWksc_kGtRrbi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-4" target="VfXzXKlpWksc_kGtRrbi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-4" value="Qu&#39;est ce qu&#39;une donnée ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#009999);" vertex="1" parent="1">
+          <mxGeometry x="375" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-14" value="Qui les utilises ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#009999);" vertex="1" parent="1">
+          <mxGeometry x="550" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-15" value="A quoi servent elles ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#009999);" vertex="1" parent="1">
+          <mxGeometry x="375" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-16" value="Depuis quand en a on besoin ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#009999);" vertex="1" parent="1">
+          <mxGeometry x="180" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99004D);" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-22" target="VfXzXKlpWksc_kGtRrbi-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-22" target="VfXzXKlpWksc_kGtRrbi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-22" target="VfXzXKlpWksc_kGtRrbi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-22" target="VfXzXKlpWksc_kGtRrbi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-22" target="VfXzXKlpWksc_kGtRrbi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-22" target="VfXzXKlpWksc_kGtRrbi-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-22" value="Que veut dire BIG DATA ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-23" value="Origine du mot ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="-200" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-24" value="Depuis quand ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="-360" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-25" value="Qui sont les acteurs ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="-360" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-26" value="Qui sont les consommateurs ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="-320" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-28" value="Pourquoi le BIG DATA plutôt qu&#39;un autre ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="-370" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-29" value="Existe t il d&#39;autres termes pour caractériser des données ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="-170" y="720" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-36" target="VfXzXKlpWksc_kGtRrbi-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-36" target="VfXzXKlpWksc_kGtRrbi-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-36" target="VfXzXKlpWksc_kGtRrbi-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-36" target="VfXzXKlpWksc_kGtRrbi-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-36" target="VfXzXKlpWksc_kGtRrbi-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-36" target="VfXzXKlpWksc_kGtRrbi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-36" value="Qu&#39;est ce que la gouvernance ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="375" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-37" target="VfXzXKlpWksc_kGtRrbi-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-37" value="D&#39;ou provient cette idée ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="110" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-38" target="VfXzXKlpWksc_kGtRrbi-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-38" value="Est ce un besoin ? une mode ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="255" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-39" value="Quelles sont les notions derrière tous cela ? Qu&#39;est ce que ça englobe ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="460" y="1010" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-40" value="Depuis quand est ce qu&#39;on en parle ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="660" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-47" target="VfXzXKlpWksc_kGtRrbi-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-47" value="Est ce couteux à mettre en place ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="590" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-48" value="La gouvernance pour qui ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="354" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-51" value="Quelles sont les process ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="550" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-39" target="VfXzXKlpWksc_kGtRrbi-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-55" value="Voit on des changement ? Améliorations aujourd&#39;hui grace à cela ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="10" y="1120" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-62" value="Peut être centrer les recherches autour de la période d&#39;apparition de cette thématique de gouvernance ?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-63" target="VfXzXKlpWksc_kGtRrbi-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-63" target="VfXzXKlpWksc_kGtRrbi-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-63" target="VfXzXKlpWksc_kGtRrbi-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-63" target="VfXzXKlpWksc_kGtRrbi-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfXzXKlpWksc_kGtRrbi-63" target="VfXzXKlpWksc_kGtRrbi-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-63" value="Qu&#39;est ce que la BI ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99004D);" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-65" value="De quoi parle t on derrière ce therme ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99004D);" vertex="1" parent="1">
+          <mxGeometry x="1240" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-66" value="Qu&#39;est ce que ça englobe ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99004D);" vertex="1" parent="1">
+          <mxGeometry x="1240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-67" value="La BI depuis quand ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99004D);" vertex="1" parent="1">
+          <mxGeometry x="1240" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-68" value="Lien avec la Data ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99004D);" vertex="1" parent="1">
+          <mxGeometry x="1240" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfXzXKlpWksc_kGtRrbi-69" value="Ca profite à qui ?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99004D);" vertex="1" parent="1">
+          <mxGeometry x="1240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
