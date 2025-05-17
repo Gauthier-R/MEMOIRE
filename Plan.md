@@ -9,62 +9,80 @@
 
 # Partie 1 : Fondements de la gouvernance des données massives
 ## 1.1. Définition et enjeux du Big Data
-Caractéristiques des données massives : volume, variété, vélocité, véracité, valeur.
 
-Défis associés : gestion, stockage, traitement, sécurité.
+### 1.1.1 Qu'est ce qu'une donnée ?
+
+### 1.1.2 L'origine du Big Data
+
+### 1.1.3 Caractéristiques des données massives : volume, variété, vélocité, véracité, valeur.
+
+### 1.1.4 Défis associés au Big Data : gestion, stockage, traitement, sécurité.
 
 ## 1.2. Concepts clés de la gouvernance des données
-Définition : ensemble des processus, politiques et normes pour gérer les données efficacement.
 
-Objectifs : qualité, sécurité, conformité, accessibilité des données. 
+### 1.2.1 Définition : ensemble des processus, politiques et normes pour gérer les données efficacement.
+
+### 1.2.2 Objectifs : qualité, sécurité, conformité, accessibilité des données. 
 
 ## 1.3. Cadres et référentiels de gouvernance
-Présentation des principaux frameworks : DAMA-DMBOK, COBIT, DCAM.
 
-Comparaison des approches : top-down, bottom-up, Data Mesh. 
+### 1.3.1 Présentation des principaux frameworks : DAMA-DMBOK, COBIT, DCAM.
+
+### 1.3.2 Comparaison des approches : top-down, bottom-up, Data Mesh. 
 
 # Partie 2 : Intégration de la gouvernance des données dans les solutions BI
 ## 2.1. Importance de la gouvernance pour la BI
-Assurer la qualité et la fiabilité des analyses.
 
-Éviter les silos de données et les incohérences.
+### 2.1.? Qu'est ce que la BI.
 
-Favoriser une prise de décision éclairée. 
+### 2.1.1 Assurer la qualité et la fiabilité des analyses.
+
+### 2.1.2 Éviter les silos de données et les incohérences.
+
+### 2.1.3 Favoriser une prise de décision éclairée. 
 
 ## 2.2. Composants clés d'une gouvernance efficace pour la BI
-Gestion de la qualité des données : exactitude, complétude, cohérence.
 
-Sécurité et confidentialité des données.
+### 2.2.1 Gestion de la qualité des données : exactitude, complétude, cohérence.
 
-Traçabilité et lignée des données.
+### 2.2.2 Sécurité et confidentialité des données.
 
-Catalogage et métadonnées. 
+### 2.2.3 Traçabilité et lignée des données.
+
+### 2.2.4 Catalogage et métadonnées. 
 
 ## 2.3. Rôles et responsabilités
-Chief Data Officer (CDO), Data Steward, Data Owner.
 
-Collaboration entre les équipes IT et métiers. 
+### 2.3.1 Chief Data Officer (CDO), Data Steward, Data Owner.
+
+### 2.3.2 Collaboration entre les équipes IT et métiers.
+
+### 2.3.? Sensibilisation des utilisateurs de la donnée
 
 # Partie 3 : Initiatives et meilleures pratiques pour une gouvernance durable
 ## 3.1. Mise en place de politiques et procédures
-Élaboration de politiques de gouvernance alignées sur les objectifs stratégiques.
 
-Définition de standards et de processus pour la gestion des données. 
+### 3.1.1 Élaboration de politiques de gouvernance alignées sur les objectifs stratégiques.
+
+### 3.1.2 Définition de standards et de processus pour la gestion des données. 
 
 ## 3.2. Adoption d'outils et technologies
-Utilisation de solutions de gestion de la qualité des données, de catalogues de données, de plateformes de gouvernance.
 
-Intégration avec les outils BI existants. 
+### 3.2.1 Utilisation de solutions de gestion de la qualité des données, de catalogues de données, de plateformes de gouvernance.
 
-## 3.3. Formation et culture organisationnelle
-Sensibilisation des collaborateurs à l'importance de la gouvernance des données.
+### 3.2.2 Intégration avec les outils BI existants. 
 
-Développement d'une culture axée sur la qualité et la responsabilité des données. 
+## 3.3. Formation et culture organisationnelle ? (ou alors directement fusionné avec la 3.1 ? )
+
+### 3.3.1 Sensibilisation des collaborateurs à l'importance de la gouvernance des données.
+
+### 3.3.2 Développement d'une culture axée sur la qualité et la responsabilité des données. 
 
 ## 3.4. Conformité réglementaire
-Respect des réglementations en vigueur : RGPD, Data Governance Act.
 
-Mise en place de mécanismes de contrôle et d'audit. 
+### 3.4.1 Respect des réglementations en vigueur : RGPD, Data Governance Act.
+
+### 3.4.2 Mise en place de mécanismes de contrôle et d'audit. 
 
 # Conclusion
 Synthèse : Récapitulation des procédures et initiatives essentielles pour une gouvernance efficace des données massives au service de la BI.
