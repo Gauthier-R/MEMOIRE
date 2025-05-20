@@ -6,3 +6,4 @@
 
 - Big Data (mot anglais « données volumineuses ») : Domaine technologique dédié à l’analyse de très grands volumes de données informatiques (petaoctets), issus d'une grande variété de sources, tels les moteurs de recherche et les réseaux sociaux ; ces grands volumes de données. (Recommandation officielle : mégadonnées.) - Larousse 17/05/2025
 
+- Métadonnée : Donnée servant à caractériser une autre donnée, physique ou numérique : Les métadonnées sont à la base de l’archivage. - Larousse 20/05/2025
