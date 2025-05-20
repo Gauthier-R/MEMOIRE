@@ -12,44 +12,99 @@
 
 ### 1.1.1 Qu'est ce qu'une donnée ?
 
+Explication des données, ou en trouve t on, ce que ça représente (volume, vie de tous les jours)
+
+Introduction à mon cas d'entreprise -> mon rôle en tant qu'apprenti data analyst
+
 ### 1.1.2 L'origine du Big Data
+
+Depuis quand est qu'on parle de cela, quel en est la cause, comment évolue cette notion, qu'est ce qu'elle représente principalement aujourd'hui
+
+Cas d'exemple avec les données clients et gestion des contrats 
 
 ### 1.1.3 Caractéristiques des données massives : volume, variété, vélocité, véracité, valeur.
 
+Qu'est ce qui nous permet de définir une big Data, expliquer chacune des caractéristiques
+
+Exemple :
+
 ### 1.1.4 Défis associés au Big Data : gestion, stockage, traitement, sécurité.
+
+Comment manipuler ces données, quels enjeux, le coût et ce que ça rapporte
+
+Projet segmentation portefeuille avec problème d'extraction des données via excel (outil non adapté pour des volumes énormes de données)
 
 ## 1.2. Concepts clés de la gouvernance des données
 
-### 1.2.1 Définition : ensemble des processus, politiques et normes pour gérer les données efficacement.
+### 1.2.1 Qu'est ce que la gouvernance ?
 
-### 1.2.2 Objectifs : qualité, sécurité, conformité, accessibilité des données. 
+L'ensemble des processus, politiques et normes pour gérer les données efficacement.
+
+S'appuyer sur les définitions données dans le ppt alptis / Parler de cette volontée de développer la gouvernance
+
+### 1.2.2 Les objectifs d'une gouvernance fonctionnelle
+
+Objectifs : qualité, sécurité, conformité, accessibilité des données. Développer ces notions et points de vues
+
+Les actions mises en place par Altpis pour y répondre et illustrer ces propos : Commentaires des tables, tdb suivis des erreur dans nos données, sensibilisation du métier
 
 ## 1.3. Cadres et référentiels de gouvernance
 
 ### 1.3.1 Présentation des principaux frameworks : DAMA-DMBOK, COBIT, DCAM.
 
+Parler des outils et méthodes recommandées / les plus courantes afin de répondre à une gouvernance efficace 
+
+Processus de réflexion et travail sur ce projet
+
 ### 1.3.2 Comparaison des approches : top-down, bottom-up, Data Mesh. 
+
+Comment adapter sa gouvernance en fonction du besoin
+
+Exemple d'approche choisi par Alptis
+
 
 # Partie 2 : Intégration de la gouvernance des données dans les solutions BI
 ## 2.1. Importance de la gouvernance pour la BI
 
-### 2.1.? Qu'est ce que la BI.
+### 2.1.1 Qu'est ce que la BI.
 
-### 2.1.1 Assurer la qualité et la fiabilité des analyses.
+Définir la BI, son rôle, depuis quand est ce qu'on en parle, ce que ça apporte
 
-### 2.1.2 Éviter les silos de données et les incohérences.
+Parler des nombreux projets BI fait chez Alptis : conception des tableaux de bords et rapports BO
 
-### 2.1.3 Favoriser une prise de décision éclairée. 
+### 2.1.2 Assurer la qualité et la fiabilité des analyses.
+
+Faire le lien entre BI et gouvernance, parler de l'importance de restituer des valeurs justes sinon plus aucun sens (chose complexe) et parler de l'importance de comprendre le besoin
+
+Les nombreux échanges fait avec le métier afin de définir leur besoin et de le retranscrire de manière correcte en données
+
+### 2.1.3 Favoriser une prise de décision éclairée en limitant les incohérences. 
+
+C'est une démarche longue et qui nécessite de la régularité à mettre en place, mais qui par la suite donnera de bonne habitude, un gain de temps et de justesse donc d'argent (amélioration de la qualité de la stratégie et prise de décision)
 
 ## 2.2. Composants clés d'une gouvernance efficace pour la BI
 
 ### 2.2.1 Gestion de la qualité des données : exactitude, complétude, cohérence.
 
+Parler de l'importance d'avoir des données juste et comment faire (anticipation, réflexion en amont, structure du modèle de données, pratiques de dev)
+
+Le projet de refonte de l'outil de gestion Cleva -> réflexion sur le datawarehouse, enrichissement, controle qualité au travers de rapports bo
+
 ### 2.2.2 Sécurité et confidentialité des données.
 
-### 2.2.3 Traçabilité et lignée des données.
+Importance de sécuriser ses données, gérer les droits d'accès etc
+
+Données autour de la santé sont hyper règlementées, les rapports nécessitent des droits d'accès en fonction du type de données.
+
+### 2.2.3 Traçabilité et compréhension des données.
+
+Importance de versionner et commenter ses dev, les tables, les champs 
+
+Citation de l'utilisation d'outils tel que Git hub, draw.io etc
 
 ### 2.2.4 Catalogage et métadonnées. 
+
+
 
 ## 2.3. Rôles et responsabilités
 
