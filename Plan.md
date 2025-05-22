@@ -104,15 +104,25 @@ Citation de l'utilisation d'outils tel que Git hub, draw.io etc
 
 ### 2.2.4 Catalogage et métadonnées. 
 
+Importance d'avoir à la fois une compréhension technique mais aussi fonctionnelle des données : par exemple être capable de retranscrire une données en fonction métier. Utilisation de métadonnées pour définir des données (voir comment développer la notion) 
 
+Mettre en avant les outils spécialisés dans le cataloguage de données  : Data Galaxy
 
 ## 2.3. Rôles et responsabilités
 
 ### 2.3.1 Chief Data Officer (CDO), Data Steward, Data Owner.
 
+Présenter les profils typiques des personnes garantes de la gouvernance des données.
+
+Mettre en avant les échanges fait entre data steward, owner etc chez alptis afin de garantir des livraisons en prd péraines
+
 ### 2.3.2 Collaboration entre les équipes IT et métiers.
 
+Parler des échanges mis en places avec le métier et l'intérêt de data galaxy
+
 ### 2.3.? Sensibilisation des utilisateurs de la donnée
+
+l'envie de sensibiliser le métier en leur donnant la main sur des sandbox, d'être amené à manipuler la données en leur montrant les étapes de transition afin de repondre fidèlement  à leur besoin
 
 # Partie 3 : Initiatives et meilleures pratiques pour une gouvernance durable
 ## 3.1. Mise en place de politiques et procédures
