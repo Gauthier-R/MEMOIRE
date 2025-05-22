@@ -60,7 +60,7 @@ Processus de réflexion et travail sur ce projet
 
 Comment adapter sa gouvernance en fonction du besoin
 
-Exemple d'approche choisi par Alptis
+Exemple d'approche choisi par Alptis, méthode Agile de travail ? 
 
 
 # Partie 2 : Intégration de la gouvernance des données dans les solutions BI
