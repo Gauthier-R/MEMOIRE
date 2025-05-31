@@ -61,4 +61,12 @@ Citation clé :
 
 Lien : https://www.talend.com/fr/resources/future-big-data/
 
+# 7. CNIL - Définition d'une donnée sensible 
+
+Citation clé :
+
+"Les données sensibles forment une catégorie particulière des données personnelles. Ce sont des informations qui révèlent la prétendue origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que le traitement des données génétiques, des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique."
+
+Liens : https://www.cnil.fr/fr/definition/donnee-sensible
+
 
