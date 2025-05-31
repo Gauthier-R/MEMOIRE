@@ -20,7 +20,7 @@ Introduction à mon cas d'entreprise -> mon rôle en tant qu'apprenti data analy
 
 Depuis quand est qu'on parle de cela, quel en est la cause, comment évolue cette notion, qu'est ce qu'elle représente principalement aujourd'hui
 
-Cas d'exemple avec les données clients et gestion des contrats 
+Cas d'exemple avec les données clients et gestion des contrats -> trouver des chiffres sur alptis par rapport au nombre de clients, nombre de contrats gérés, les courtiers etc
 
 ### 1.1.3 Caractéristiques des données massives : volume, variété, vélocité, véracité, valeur.
 
