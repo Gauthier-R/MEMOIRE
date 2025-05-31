@@ -12,15 +12,21 @@
 
 ### 1.1.1 Qu'est ce qu'une donnée ?
 
-Explication des données, ou en trouve t on, ce que ça représente (volume, vie de tous les jours)
+Explication des données, ou en trouve t on, ce que ça représente (volume, vie de tous les jours), quels sont les types de données que l'on trouve (données personnelles, données sensibles etc)
 
-Introduction à mon cas d'entreprise -> mon rôle en tant qu'apprenti data analyst
+Introduction à mon cas d'entreprise -> mon rôle en tant qu'apprenti data analyst -> nous sommes amenés à manipuler de nombreuses données personnelles et sensible ( cas de la santé )
+
+Source : 
+- Liens_Données / 1. CNIL – Définition de la donnée personnelle / https://www.cnil.fr/fr/definition/donnee-personnelle
+- Liens_Données / 8. CNIL - Définition d'une donnée sensible / https://www.cnil.fr/fr/definition/donnee-sensible
 
 ### 1.1.2 L'origine du Big Data
 
 Depuis quand est qu'on parle de cela, quel en est la cause, comment évolue cette notion, qu'est ce qu'elle représente principalement aujourd'hui
 
-Cas d'exemple avec les données clients et gestion des contrats -> trouver des chiffres sur alptis par rapport au nombre de clients, nombre de contrats gérés, les courtiers etc
+Cas d'exemple avec les données clients et gestion des contrats -> trouver des chiffres sur alptis par rapport au nombre de clients, nombre de contrats gérés, les courtiers etc -> Aller chercher dans mes powerpoints
+
+
 
 ### 1.1.3 Caractéristiques des données massives : volume, variété, vélocité, véracité, valeur.
 
