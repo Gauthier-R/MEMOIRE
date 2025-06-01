@@ -22,17 +22,25 @@ Source :
 
 ### 1.1.2 L'origine du Big Data
 
-Depuis quand est qu'on parle de cela, quel en est la cause, comment évolue cette notion, qu'est ce qu'elle représente principalement aujourd'hui
+Depuis quand est qu'on parle de cela, quel en est la cause, comment évolue cette notion, qu'est ce qu'elle représente principalement aujourd'hui, qu'est-ce que les données structurées et non structurées,
 
 Cas d'exemple avec les données clients et gestion des contrats -> trouver des chiffres sur alptis par rapport au nombre de clients, nombre de contrats gérés, les courtiers etc -> Aller chercher dans mes powerpoints
 
-
+Source :
+- Liens_Données / 2. Crédit Mutuel – À quoi servent nos données sur Internet ? / https://www.creditmutuel.fr/fr/particuliers/informations/confidentialite-donnees-internet.html -> Afin d'avoir des infos génériques sur la consommation de la donnée aujourd'hui
+- Liens_Données / 4. Oracle – Qu’est-ce que le Big Data ? / https://www.oracle.com/fr/big-data/what-is-big-data/
+- Liens_Données / 3. SAP – Qu'est-ce que le Big Data ? / https://www.sap.com/france/products/technology-platform/what-is-big-data.html
+- Liens_Données / 5. Adobe – Qu’est-ce que le Big Data ? / https://business.adobe.com/fr/blog/basics/big-data
+- Liens_Données / 6. CNIL – Définition du Big Data / https://www.cnil.fr/fr/definition/big-data
 
 ### 1.1.3 Caractéristiques des données massives : volume, variété, vélocité, véracité, valeur.
 
 Qu'est ce qui nous permet de définir une big Data, expliquer chacune des caractéristiques
 
-Exemple :
+Source :
+- Liens_Données / 4. Oracle – Qu’est-ce que le Big Data ? / https://www.oracle.com/fr/big-data/what-is-big-data/
+- Liens_Données / 3. SAP – Qu'est-ce que le Big Data ? / https://www.sap.com/france/products/technology-platform/what-is-big-data.html
+- Liens_Données / 5. Adobe – Qu’est-ce que le Big Data ? / https://business.adobe.com/fr/blog/basics/big-data
 
 ### 1.1.4 Défis associés au Big Data : gestion, stockage, traitement, sécurité.
 
@@ -40,13 +48,26 @@ Comment manipuler ces données, quels enjeux, le coût et ce que ça rapporte
 
 Projet segmentation portefeuille avec problème d'extraction des données via excel (outil non adapté pour des volumes énormes de données)
 
+Source :
+- Liens_Données / 7. Talend – L’avenir du Big Data / https://www.talend.com/fr/resources/future-big-data/
+- Liens_Données / 4. Oracle – Qu’est-ce que le Big Data ? / https://www.oracle.com/fr/big-data/what-is-big-data/
+- Liens_Données / 3. SAP – Qu'est-ce que le Big Data ? / https://www.sap.com/france/products/technology-platform/what-is-big-data.html
+- Liens_Données / 5. Adobe – Qu’est-ce que le Big Data ? / https://business.adobe.com/fr/blog/basics/big-data
+
 ## 1.2. Concepts clés de la gouvernance des données
 
 ### 1.2.1 Qu'est ce que la gouvernance ?
 
-L'ensemble des processus, politiques et normes pour gérer les données efficacement.
+L'ensemble des processus, politiques et normes pour gérer les données efficacement et les avantages que cela procure 
 
 S'appuyer sur les définitions données dans le ppt alptis / Parler de cette volontée de développer la gouvernance
+
+Source :
+- PPT Gouvernance des données Alptis
+- Gouvernance / 1. Google Cloud – Qu'est-ce que la gouvernance des données ? / https://cloud.google.com/learn/what-is-data-governance?hl=fr
+- Gouvernance / 2. Talend – Gouvernance des données : principe, utilité et outils / https://www.talend.com/fr/resources/guide-gouvernance-donnees/
+- Gouvernance / 3. SAP – Qu'est-ce que la gouvernance des données ? / https://www.sap.com/suisse/products/data-cloud/master-data-governance/what-is-data-governance.html
+- Gouvernance / 4. Oracle – Qu’est-ce que la gouvernance des données ? / https://www.oracle.com/fr/security/definition-data-governance/
 
 ### 1.2.2 Les objectifs d'une gouvernance fonctionnelle
 
@@ -54,6 +75,11 @@ Objectifs : qualité, sécurité, conformité, accessibilité des données. Dév
 
 Les actions mises en place par Altpis pour y répondre et illustrer ces propos : Commentaires des tables, tdb suivis des erreur dans nos données, sensibilisation du métier
 
+Source :
+- PPT Gouvernance des données Alptis
+
+
+--------------- JE NE SAIS PAS QUOI FAIRE DE CETTE PARTIE -----------------
 ## 1.3. Cadres et référentiels de gouvernance
 
 ### 1.3.1 Présentation des principaux frameworks : DAMA-DMBOK, COBIT, DCAM.
@@ -67,6 +93,7 @@ Processus de réflexion et travail sur ce projet
 Comment adapter sa gouvernance en fonction du besoin
 
 Exemple d'approche choisi par Alptis, méthode Agile de travail ? 
+------------------------------------------------------------------------
 
 
 # Partie 2 : Intégration de la gouvernance des données dans les solutions BI
@@ -76,7 +103,7 @@ Exemple d'approche choisi par Alptis, méthode Agile de travail ?
 
 Définir la BI, son rôle, depuis quand est ce qu'on en parle, ce que ça apporte
 
-Parler des nombreux projets BI fait chez Alptis : conception des tableaux de bords et rapports BO
+Parler des nombreux projets BI fait chez Alptis : conception des tableaux de bords QS et rapports BO
 
 ### 2.1.2 Assurer la qualité et la fiabilité des analyses.
 
