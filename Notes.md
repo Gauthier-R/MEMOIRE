@@ -82,7 +82,7 @@ L’importance de l’appropriation par les métiers : sans cela, aucun cadre ne
 Le DAMA-DMBOK est un guide complet élaboré par la Data Management Association (DAMA), couvrant tous les aspects de la gestion des données. Il est structuré autour de 11 domaines de connaissance, tels que la gouvernance des données, la qualité des données, la gestion des métadonnées, l'architecture des données, et plus encore. Ce cadre est largement reconnu pour sa structure détaillée et son approche holistique de la gestion des données.
 Sogeti Labs
 
-Source fiable : Sogeti Labs – Data Governance Frameworks: A Comparison
+Source fiable : https://labs.sogeti.com/data-governance-frameworks-a-comparison/
 Sogeti Labs
 
 🔹 COBIT (Control Objectives for Information and Related Technologies)
@@ -94,7 +94,7 @@ IT Governance
 Wikipédia
 +7
 
-Source fiable : ISACA – COBIT Framework
+Source fiable : https://www.isaca.org/en/resources/cobit
 IT Governance
 +7
 ISACA
@@ -109,7 +109,7 @@ Sogeti Labs
 EDM Council
 +1
 
-Source fiable : EDM Council – DCAM Framework
+Source fiable : https://edmcouncil.org/frameworks/dcam/
 IT Governance
 +2
 EDM Council
@@ -127,4 +127,4 @@ Ici, les initiatives de gouvernance émergent des équipes opérationnelles ou t
 🔹 Data Mesh
 Le Data Mesh est une approche décentralisée de la gestion des données, où chaque domaine métier est responsable de ses propres données, considérées comme des produits. Cela favorise l'autonomie et la responsabilité, mais nécessite une culture organisationnelle mature et des infrastructures adaptées.
 
-Source fiable : Intersystems – Data Fabric vs. Data Mesh: A Comprehensive Comparison
+Source fiable : https://www.intersystems.com/uk/resources/data-fabric-vs-data-mesh-a-comprehensive-comparison/
