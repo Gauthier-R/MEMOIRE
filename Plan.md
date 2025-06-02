@@ -79,21 +79,31 @@ Source :
 - PPT Gouvernance des données Alptis
 
 
---------------- JE NE SAIS PAS QUOI FAIRE DE CETTE PARTIE -----------------
-## 1.3. Cadres et référentiels de gouvernance
 
-### 1.3.1 Présentation des principaux frameworks : DAMA-DMBOK, COBIT, DCAM.
+## 1.3. Cadres et référentiels autour de la gouvernance
 
-Parler des outils et méthodes recommandées / les plus courantes afin de répondre à une gouvernance efficace 
+### 1.3.1 Vue d'ensemble des principaux cadres de référence
 
-Processus de réflexion et travail sur ce projet
+Parler des outils, méthodes et recherches faites autour de la gouvernance. Montrer que cette notion de gouvernance n'est pas récente et qu'elle évolue constamment. 
+( C'est comme ranger ta chambre )  
+
+S'appuyer sur des références reconnues dans la recherche de la gouvernance comme ces livres : DAMA-DMBOK, COBIT, DCAM -> pas certain de celle la
+
+Source : 
+- Framework / 1. DAMA-DMBOK (Data Management Body of Knowledge)
+- Framework / 2. COBIT (Control Objectives for Information and Related Technologies)
+- Framework / 3. DCAM (Data Management Capability Assessment Model)
 
 ### 1.3.2 Comparaison des approches : top-down, bottom-up, Data Mesh. 
 
-Comment adapter sa gouvernance en fonction du besoin
+Comment adapter sa gouvernance en fonction du besoin. Montrer que la mise en œuvre opérationnelle dépend aussi de la culture de l’entreprise, de sa structure, de sa maturité et de ses objectifs.
 
-Exemple d'approche choisi par Alptis, méthode Agile de travail ? 
-------------------------------------------------------------------------
+Exemple : Mettre en valeur les process mis en place par Alptis, méthode Agile de travail, catalogue de données, échange avec le métier, architecture des données ...
+
+Source : 
+- Framework / 4. Top down et bottom up
+- Framework / 5. Data Mesh
+
 
 
 # Partie 2 : Intégration de la gouvernance des données dans les solutions BI
