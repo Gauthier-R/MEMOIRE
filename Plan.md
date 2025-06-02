@@ -153,7 +153,7 @@ Mettre en avant les échanges fait entre data steward, owner etc chez alptis afi
 
 Parler des échanges mis en places avec le métier et l'intérêt de data galaxy
 
-### 2.3.? Sensibilisation des utilisateurs de la donnée
+### 2.3.3 Sensibilisation des utilisateurs de la donnée
 
 l'envie de sensibiliser le métier en leur donnant la main sur des sandbox, d'être amené à manipuler la données en leur montrant les étapes de transition afin de repondre fidèlement  à leur besoin
 
