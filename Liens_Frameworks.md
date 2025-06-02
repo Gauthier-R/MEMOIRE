@@ -37,5 +37,14 @@ Sources :
 
 # 4. Top down et bottom up
 
-Sources : https://geoconfluences.ens-lyon.fr/glossaire/top-down-et-bottom-up
+Résumé :
+
+Top-Down : Dans cette approche, la gouvernance des données est initiée par la direction, avec des politiques et des normes définies au niveau central. Elle assure une vision cohérente et une conformité aux réglementations, mais peut parfois manquer d'agilité et de réactivité aux besoins opérationnels.
+
+Bottom-Up : les initiatives de gouvernance émergent des équipes opérationnelles ou techniques. Cette approche favorise l'innovation et l'adaptabilité, mais peut entraîner une fragmentation des pratiques si elle n'est pas bien coordonnée.
+
+Sources : 
+- https://geoconfluences.ens-lyon.fr/glossaire/top-down-et-bottom-up
+- https://fr.wikipedia.org/wiki/Approches_ascendante_et_descendante
+- https://asana.com/fr/resources/top-down-approach
 
