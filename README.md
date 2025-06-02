@@ -1,3 +1,3 @@
 # MEMOIRE
 
-Ici se trouve tous les fichiers nécéssaires à la mise en place de mon mémoire.
+Ici se trouvent tous les fichiers nécéssaires à la mise en place de mon mémoire.
