@@ -35,3 +35,7 @@ Utilisé pour évaluer le niveau de maturité en data management. Très utilisé
 Sources : 
 - https://edmcouncil.org/frameworks/dcam/
 
+# 4. Top down et bottom up
+
+Sources : https://geoconfluences.ens-lyon.fr/glossaire/top-down-et-bottom-up
+
