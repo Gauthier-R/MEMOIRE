@@ -115,15 +115,40 @@ Définir la BI, son rôle, depuis quand est ce qu'on en parle, ce que ça apport
 
 Parler des nombreux projets BI fait chez Alptis : conception des tableaux de bords QS et rapports BO
 
+Source :
+- BI / 1. Oracle – Définition de la Business Intelligence / https://www.oracle.com/fr/database/business-intelligence-definition/
+- BI / 2. Tableau – Définition et importance de la BI / [https://www.oracle.com/fr/database/business-intelligence-definition/](https://www.tableau.com/en-gb/trial/business-intelligence-software?d=701ed00000DQp8eAAD&nc=701ed00000DRihWAAT&utm_content=701ed00000DQp8eAAD&utm_source=google&utm_medium=paid_search&utm_campaign=22284130994&utm_adgroup=173946811565&utm_term=business%20intelligence&utm_matchtype=e&gad_source=1&gad_campaignid=22284130994&gbraid=0AAAAAqUgRK8dC_b9ZNOx2hGm-_hlH6Nxh&gclid=CjwKCAjw3MXBBhAzEiwA0vLXQaIiW_Uh1z2pJmcG1z7rZXRQdbdG7i0VzJj2v0yDz110vUF_KQOcYxoCvDwQAvD_BwE&gclsrc=aw.ds)
+- BI / 3. Talend – Guide complet de la Business Intelligence / https://www.tableau.com/fr-fr/learn/articles/business-intelligence
+- BI / 4. SAP – Qu'est-ce que la Business Intelligence ? / https://www.talend.com/fr/resources/guide-business-intelligence/
+- BI / 5. Tableau – Logiciel de Business Intelligence / https://www.sap.com/canada-fr/products/data-cloud/cloud-analytics/what-is-business-intelligence.html
+
 ### 2.1.2 Assurer la qualité et la fiabilité des analyses.
 
-Faire le lien entre BI et gouvernance, parler de l'importance de restituer des valeurs justes sinon plus aucun sens (chose complexe) et parler de l'importance de comprendre le besoin
+Faire le lien entre BI et gouvernance, parler de l'importance de restituer des valeurs justes sinon plus aucun sens (chose complexe) et parler de l'importance de comprendre le besoin en amont.
+Que les données que nous traitons on une origine / provenance, une raison de pourquoi nous la récoltons et une finalité. Qu'il est important de maintenir cette cohérence dans l'ensemble de la chaîne et du processus afin que tous cela fonctionne. D'ou la gouvernance !
 
-Les nombreux échanges fait avec le métier afin de définir leur besoin et de le retranscrire de manière correcte en données
+Exemple : 
+Les nombreux échanges fait avec le métier afin de définir leur besoin et de le retranscrire de manière correcte en données.
+Le projet de suivi des anomalies des données : TDB_QDD_DATA
+
+Source :
+- Gouvernance / 2. Talend – Gouvernance des données : principe, utilité et outils / https://www.talend.com/fr/resources/guide-gouvernance-donnees/
+- Nettoyage / 1. Talend – Nettoyage des données : guide du data cleansing / https://www.talend.com/fr/resources/what-is-data-cleansing/
+- Nettoyage / 2. AWS – Qu'est-ce que le nettoyage des données ? / https://aws.amazon.com/fr/what-is/data-cleansing/
+
 
 ### 2.1.3 Favoriser une prise de décision éclairée en limitant les incohérences. 
 
-C'est une démarche longue et qui nécessite de la régularité à mettre en place, mais qui par la suite donnera de bonne habitude, un gain de temps et de justesse donc d'argent (amélioration de la qualité de la stratégie et prise de décision)
+C'est une démarche longue et qui nécessite de la régularité à mettre en place, mais qui par la suite donnera de bonnes habitudes (cercle vertueux), un gain de temps et de justesse donc d'argent (amélioration de la qualité de la stratégie et prise de décision). 
+
+Exemple :
+Amélioration des analyses sur notre Portefeuille des adhérents lors du Comité de direction annuel grâce au développement d'une application QS et de la volonté de pousser les analyses plus loins et de donner plus la main sur les données au métier. 
+
+Source :
+- Gouvernance / 2. Talend – Gouvernance des données : principe, utilité et outils / https://www.talend.com/fr/resources/guide-gouvernance-donnees/
+- Nettoyage / 1. Talend – Nettoyage des données : guide du data cleansing / https://www.talend.com/fr/resources/what-is-data-cleansing/
+- Nettoyage / 2. AWS – Qu'est-ce que le nettoyage des données ? / https://aws.amazon.com/fr/what-is/data-cleansing/
+
 
 ## 2.2. Composants clés d'une gouvernance efficace pour la BI
 
@@ -133,11 +158,22 @@ Parler de l'importance d'avoir des données juste et comment faire (anticipation
 
 Le projet de refonte de l'outil de gestion Cleva -> réflexion sur le datawarehouse, enrichissement, controle qualité au travers de rapports bo
 
+Source : 
+- Nettoyage / 1. Talend – Nettoyage des données : guide du data cleansing / https://www.talend.com/fr/resources/what-is-data-cleansing/
+- Nettoyage / 2. AWS – Qu'est-ce que le nettoyage des données ? / https://aws.amazon.com/fr/what-is/data-cleansing/
+
+
 ### 2.2.2 Sécurité et confidentialité des données.
 
 Importance de sécuriser ses données, gérer les droits d'accès etc
 
 Données autour de la santé sont hyper règlementées, les rapports nécessitent des droits d'accès en fonction du type de données.
+
+Source :
+- RGPD / 1. CNIL – Le règlement européen sur la protection des données / https://www.cnil.fr/fr/reglement-europeen-protection-donnees
+- RGPD / 2. CNIL – Comprendre le RGPD / https://www.cnil.fr/fr/comprendre-le-rgpd
+- RGPD / 3. Service-Public.fr – Obligations en matière de protection des données personnelles (RGPD) / https://entreprendre.service-public.fr/vosdroits/F24270
+- RGPD / 4. France Num – Comment gérer les données personnelles de son entreprise en conformité avec le RGPD ? / https://www.francenum.gouv.fr/guides-et-conseils/protection-contre-les-risques/gestion-des-donnees-personnelles/comment-gerer-les
 
 ### 2.2.3 Traçabilité et compréhension des données.
 
@@ -145,11 +181,23 @@ Importance de versionner et commenter ses dev, les tables, les champs
 
 Citation de l'utilisation d'outils tel que Git hub, draw.io etc
 
+Source :
+Chercher source sur le versionning et Git Hub
+
 ### 2.2.4 Catalogage et métadonnées. 
 
 Importance d'avoir à la fois une compréhension technique mais aussi fonctionnelle des données : par exemple être capable de retranscrire une données en fonction métier. Utilisation de métadonnées pour définir des données (voir comment développer la notion) 
 
 Mettre en avant les outils spécialisés dans le cataloguage de données  : Data Galaxy
+
+Source : 
+- Catalogue / 1. Oracle – Qu’est-ce qu’un catalogue de données ? / https://www.oracle.com/fr/big-data/data-catalog/what-is-a-data-catalog/
+- Catalogue / 2. Talend – Data catalog : définition et enjeux business / https://www.talend.com/fr/resources/guide-data-catalog/
+- Catalogue / 3. INSEE – Le catalogue des données de l'Insee / https://www.insee.fr/fr/information/8184173
+- Catalogue / 4. AWS – Qu'est-ce qu'un catalogue de données ? / https://aws.amazon.com/fr/what-is/data-catalog/
+- Catalogue / 5. data.gouv.fr – Catalogue des données de data.gouv.fr / https://www.data.gouv.fr/fr/datasets/catalogue-des-donnees-de-data-gouv-fr/
+- Catalogue / 6. Qlik – Catalogue de données / https://help.qlik.com/fr-FR/cloud-services/Subsystems/Hub/Content/Sense_Hub/LoadData/data-catalog.htm
+- Chercher Data Galaxy
 
 ## 2.3. Rôles et responsabilités
 
@@ -159,13 +207,47 @@ Présenter les profils typiques des personnes garantes de la gouvernance des don
 
 Mettre en avant les échanges fait entre data steward, owner etc chez alptis afin de garantir des livraisons en prd péraines
 
+Source :
+- PPT Gouvernance des données Alptis
+- Gouvernance / 1. Google Cloud – Qu'est-ce que la gouvernance des données ? / https://cloud.google.com/learn/what-is-data-governance?hl=fr
+- Gouvernance / 2. Talend – Gouvernance des données : principe, utilité et outils / https://www.talend.com/fr/resources/guide-gouvernance-donnees/
+- Gouvernance / 3. SAP – Qu'est-ce que la gouvernance des données ? / https://www.sap.com/suisse/products/data-cloud/master-data-governance/what-is-data-governance.html
+- Gouvernance / 4. Oracle – Qu’est-ce que la gouvernance des données ? / https://www.oracle.com/fr/security/definition-data-governance/
+
+
 ### 2.3.2 Collaboration entre les équipes IT et métiers.
 
 Parler des échanges mis en places avec le métier et l'intérêt de data galaxy
 
+Source :
+- Catalogue / 1. Oracle – Qu’est-ce qu’un catalogue de données ? / https://www.oracle.com/fr/big-data/data-catalog/what-is-a-data-catalog/
+- Catalogue / 2. Talend – Data catalog : définition et enjeux business / https://www.talend.com/fr/resources/guide-data-catalog/
+- Catalogue / 3. INSEE – Le catalogue des données de l'Insee / https://www.insee.fr/fr/information/8184173
+- Catalogue / 4. AWS – Qu'est-ce qu'un catalogue de données ? / https://aws.amazon.com/fr/what-is/data-catalog/
+- Catalogue / 5. data.gouv.fr – Catalogue des données de data.gouv.fr / https://www.data.gouv.fr/fr/datasets/catalogue-des-donnees-de-data-gouv-fr/
+- Catalogue / 6. Qlik – Catalogue de données / https://help.qlik.com/fr-FR/cloud-services/Subsystems/Hub/Content/Sense_Hub/LoadData/data-catalog.htm
+- Chercher Data Galaxy
+- PPT Gouvernance des données Alptis
+- Gouvernance / 1. Google Cloud – Qu'est-ce que la gouvernance des données ? / https://cloud.google.com/learn/what-is-data-governance?hl=fr
+- Gouvernance / 2. Talend – Gouvernance des données : principe, utilité et outils / https://www.talend.com/fr/resources/guide-gouvernance-donnees/
+- Gouvernance / 3. SAP – Qu'est-ce que la gouvernance des données ? / https://www.sap.com/suisse/products/data-cloud/master-data-governance/what-is-data-governance.html
+- Gouvernance / 4. Oracle – Qu’est-ce que la gouvernance des données ? / https://www.oracle.com/fr/security/definition-data-governance/
+
 ### 2.3.3 Sensibilisation des utilisateurs de la donnée
 
 l'envie de sensibiliser le métier en leur donnant la main sur des sandbox, d'être amené à manipuler la données en leur montrant les étapes de transition afin de repondre fidèlement  à leur besoin
+
+Les pages de test et manipulation dans les applications QS
+
+Source :
+- PPT Gouvernance des données Alptis
+- Gouvernance / 1. Google Cloud – Qu'est-ce que la gouvernance des données ? / https://cloud.google.com/learn/what-is-data-governance?hl=fr
+- Gouvernance / 2. Talend – Gouvernance des données : principe, utilité et outils / https://www.talend.com/fr/resources/guide-gouvernance-donnees/
+- Gouvernance / 3. SAP – Qu'est-ce que la gouvernance des données ? / https://www.sap.com/suisse/products/data-cloud/master-data-governance/what-is-data-governance.html
+- Gouvernance / 4. Oracle – Qu’est-ce que la gouvernance des données ? / https://www.oracle.com/fr/security/definition-data-governance/
+ Chercher une source intéressante pour mettre en valeur l'importance de la sensibilisation des utilisateurs
+
+
 
 # Partie 3 : Initiatives et meilleures pratiques pour une gouvernance durable
 ## 3.1. Mise en place de politiques et procédures
