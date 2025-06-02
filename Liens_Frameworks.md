@@ -7,6 +7,6 @@ pour sa structure détaillée et son approche holistique de la gestion des donn�
 
 Sources :
 - https://www.astera.com/fr/type/blog/data-governance-framework/#:~:text=A%20gouvernance%20des%20données%20Le,aux%20normes%20réglementaires%20en%20vigueur
-
+- https://labs.sogeti.com/data-governance-frameworks-a-comparison/ 
 
 # 2. 
