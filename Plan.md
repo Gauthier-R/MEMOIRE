@@ -217,7 +217,7 @@ Source :
 
 ### 2.3.2 Collaboration entre les équipes IT et métiers.
 
-Parler des échanges mis en places avec le métier et l'intérêt de data galaxy
+Parler des échanges mis en places avec le métier et l'intérêt de data galaxy, de l'intérêt de définir un BA sur chaque projet et responsable des projets livrés côté métier. 
 
 Source :
 - Catalogue / 1. Oracle – Qu’est-ce qu’un catalogue de données ? / https://www.oracle.com/fr/big-data/data-catalog/what-is-a-data-catalog/
