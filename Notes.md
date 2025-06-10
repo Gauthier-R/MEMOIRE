@@ -128,3 +128,7 @@ Ici, les initiatives de gouvernance émergent des équipes opérationnelles ou t
 Le Data Mesh est une approche décentralisée de la gestion des données, où chaque domaine métier est responsable de ses propres données, considérées comme des produits. Cela favorise l'autonomie et la responsabilité, mais nécessite une culture organisationnelle mature et des infrastructures adaptées.
 
 Source fiable : https://www.intersystems.com/uk/resources/data-fabric-vs-data-mesh-a-comprehensive-comparison/
+
+# Citation sympa 
+"Les données sont le pétrole du XXIe siècle." – Clive Humby
+→ Pour illustrer l’importance stratégique croissante des données dans l’économie moderne.
