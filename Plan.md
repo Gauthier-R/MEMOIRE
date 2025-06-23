@@ -258,13 +258,33 @@ Montrer que la gouvernance ne repose pas uniquement sur des procédures constant
 Voir quelles sont les politiques et la stratégie qu'Alptis souhaiterai mettre en place par la suite. Comment adapter cette gouvernance ? Est ce que Cleva joue sur cette stratégie ? Et l'IA ?
 Exemple : Refonte de la stratégie de l'équipe data suite au départ de certains membres et suppression du groupe de maintenance. Objectif de demain mettre cleva en prod. Stratégie ?
 
+Lien avec les OKR / KPI globaux de l’entreprise : par exemple, si Alptis veut améliorer la satisfaction client ou la productivité des équipes, comment la gouvernance peut y contribuer ?
+
+Impact de l’IA générative et de Cleva sur la stratégie Data :
+
+Peut-être expliquer que Cleva est un outil cœur de gestion, donc la qualité et structuration des données est vitale avant sa mise en production.
+
+Pour l’IA, évoquer que des usages futurs (modèles prédictifs, copilotes internes) nécessitent une excellente traçabilité et qualité des données sources.
+
+Tu peux citer AXA XL comme modèle d’entreprise où la stratégie est incarnée dans un CoE piloté au plus haut niveau (C-level).
+
+Souligne la stratégie Data Academy pour acculturer les métiers.
+
 ### 3.1.2 Définition de standards et de processus pour la gestion des données. 
 Parler des processus définis par l'équipe dans la mise en place de la gouvernance au sein de l'équipe. Voir le PPT Gouvernance
 Donner l'exemple avec le Qlik Community pour uniformiser toutes nos application QS selon une même charte graphique et mise en forme des pages.
 
+Ajouter que la mise en place de standards (ex. Qlik Community) réduit les coûts de maintenance et facilite l’onboarding des nouveaux arrivants.
+
+onner un exemple visuel si possible dans les annexes (charte type de dashboard ?).
+
 ### 3.1.3 Sensibilisation des collaborateurs à l'importance de la gouvernance des données.
 Travail avec les équipes comme le RSE ou digital Bar afin de créer des programme de sensibilisation aux technologies et rôle de la Data
 Souder les équipes, faire remonter les chiffres aux entièreté des équipes via le chiosque afin que tout le monde ai une vision claire de l'entreprise.
+
+Ajouter que cette culture commune autour de la donnée aide à mieux détecter les incohérences au quotidien (effet qualité continue).
+
+Ajouter une citation ou une illustration d’atelier/rencontre menée (même simple) avec le Digital Bar, ou un retour utilisateur si tu en as.
 
 
 
@@ -274,10 +294,25 @@ Souder les équipes, faire remonter les chiffres aux entièreté des équipes vi
 Parler du besoin de faire évoluer ses outils : Passage de Oracle -> Snowflake car avantage de solution cloud donc plus efficace et mieux sécurisé.
 Parfois contraint ex de Talend qui se veut de plus en plus couteux et donc qu'on souhaite délaisser. 
 
+Mettre en avant le rôle de DataGalaxy comme outil de capitalisation (évite la perte de connaissance lors des départs).
+
+Évoquer des outils en veille comme Ataccama, Collibra, Informatica, même si non utilisés chez vous, pour montrer que tu connais l’écosystème.
+
+Mentionne Doctolib avec ses certifications ISO 27701/27017/27018 et l’usage de dbt pour illustrer la structuration et la fiabilité technique.
+
+Évoque la stack technique (Catalog, Quality, BI) à travers Doctolib.
+
 ### 3.2.2 Intégration avec les outils BI existants. 
 Parler du choix de ces outils et de la raison pour laquelle on les choisis. Qu'il est important d'avoir une certaine compatibilité entre les différents outils et qu'il n'est pas nécessaire d'avoir plusieurs outils similaires
 Définir le rôle précis de l'outil que l'on utilise. Montrer qu'il est aussi très difficile pour une entreprise de tout changer car cela impacte les habitudes et tout le travail réalisé en amont.
 
+Bien préciser la complémentarité (et non la redondance) entre :
+
+BusinessObjects → diffusion automatique / rapports normés
+
+Qlik Sense → exploration dynamique / autonomie métier
+
+Tu peux illustrer avec un tableau comparatif simple.
 
 
 ## 3.3. Conformité réglementaire
@@ -286,9 +321,18 @@ Définir le rôle précis de l'outil que l'on utilise. Montrer qu'il est aussi t
 Constamment s'assurer de respecter la réglementation vis à vis du traitement des données
 Cas avec Google Analytics -> Matomo car google n'était plus reconnu comme un outil réglementaire et matomo est français.
 
+Définir brièvement le Data Governance Act : obligation de partage contrôlé de la donnée au niveau européen, rôle des intermédiateurs, etc.
+
+Expliquer que la conformité ne s’arrête pas à la collecte mais touche aussi à l’accessibilité, la documentation et l’auditabilité des données.
+
 ### 3.3.2 Mise en place de mécanismes de contrôle et d'audit.
 Il est important de développer constamment des outils qui nous permettrons de contrôler plus efficacement la qualité des données et permettant d'assurer une certaine rigueur dans l'entreprise.
 
+Le rapport BO de suivi des anomalies est une très bonne pratique → mets-le clairement ici comme mécanisme d’audit automatisé.
+
+Ajouter que des outils comme GitHub (pour les flux Talend) permettent aussi un audit technique des changements, au niveau code.
+
+Intègre l’exemple de SNCF Réseau comme cas de référentiel unique (Data Repository) interfacé à des PPM standardisés, illustrant l’auditabilité et la fiabilité à large échelle.
 
 
 # Conclusion
@@ -300,3 +344,36 @@ Perspectives : Évolutions futures de la gouvernance des données avec l'émerge
 
 # Bibliographie
 Sélection d'ouvrages, articles académiques, rapports d'experts et sources en ligne pertinents.
+
+
+# Notes référence partie 3 :
+
+1. AXA XL – Data Governance & Data Academy 🏦
+Mise en place d’un Centre d’Excellence Data (CoE) piloté par un Chief Data Officer, qui intègre gouvernance, qualité, catalogage et traçabilité en une vision unifiée via Collibra 
+
+
+Acculturation forte : création d’une Data Academy avec plus de 800 000 £ investis pour former des employés à la Data Analytics (54 apprentis) et fournir des « data champions » internes 
+
+Résultat : montée en compétences transverse et esprit de culture data-first, avec responsabilisation des métiers via un glossaire et une plateforme collaborative.
+
+2. Doctolib – Gouvernance robuste & sécurité certifiée
+Politique data transparente : dès sa création, Doctolib applique une politique conforme RGPD/Law Informatique et Libertés, clairement expliquée via infographie 
+
+Certifications ISO : ISO 27701 (gestion de la vie privée) renouvelée en France, Italie et Allemagne, complétée par ISO 27017/27018 pour la sécurité cloud 
+
+
+Organisation Analytics Engineering : structuration de l’équipe Data, adoption de dbt, approche self-service pour améliorer la gouvernance technique et la montée en agilité 
+
+3. SNCF Réseau – Intégration de la gouvernance dans la transformation
+Digital & Gouvernance intégrées via le programme “Nouvel’R” : centralisation dans un Data Repository interfacé aux outils existants pour fiabiliser les données de projets et investissements 
+
+
+
+Standardisation et auditabilité : adoption d’un processus PPM unifié, réduction des silos Excel, meilleurs suivis, et suivi rigoureux des changements.
+
+➕ Ce que ces benchmarks apportent à ton mémoire
+AXA XL : un modèle complet alliant institutionnalisation (CoE), culture (Data Academy) et transparence des données enterprise-wide.
+
+Doctolib : combinaison d’une gouvernance efficace, de certifications internationales et d’une architecture technique moderne.
+
+SNCF Réseau : exemple d’industrialisation de la gouvernance via des référentiels partagés, processus centralisés, et pilotage de la qualité.
