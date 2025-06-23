@@ -250,29 +250,46 @@ Source :
 
 
 # Partie 3 : Initiatives et meilleures pratiques pour une gouvernance durable
+
 ## 3.1. Mise en place de politiques et procédures
+Montrer que la gouvernance ne repose pas uniquement sur des procédures constantes. Il est important de la faire constamment évoluer notamment en fonction de la stratégie de son entreprise.
 
 ### 3.1.1 Élaboration de politiques de gouvernance alignées sur les objectifs stratégiques.
+Voir quelles sont les politiques et la stratégie qu'Alptis souhaiterai mettre en place par la suite. Comment adapter cette gouvernance ? Est ce que Cleva joue sur cette stratégie ? Et l'IA ?
+Exemple : Refonte de la stratégie de l'équipe data suite au départ de certains membres et suppression du groupe de maintenance. Objectif de demain mettre cleva en prod. Stratégie ?
 
 ### 3.1.2 Définition de standards et de processus pour la gestion des données. 
+Parler des processus définis par l'équipe dans la mise en place de la gouvernance au sein de l'équipe. Voir le PPT Gouvernance
+Donner l'exemple avec le Qlik Community pour uniformiser toutes nos application QS selon une même charte graphique et mise en forme des pages.
+
+### 3.1.3 Sensibilisation des collaborateurs à l'importance de la gouvernance des données.
+Travail avec les équipes comme le RSE ou digital Bar afin de créer des programme de sensibilisation aux technologies et rôle de la Data
+Souder les équipes, faire remonter les chiffres aux entièreté des équipes via le chiosque afin que tout le monde ai une vision claire de l'entreprise.
+
+
 
 ## 3.2. Adoption d'outils et technologies
 
 ### 3.2.1 Utilisation de solutions de gestion de la qualité des données, de catalogues de données, de plateformes de gouvernance.
+Parler du besoin de faire évoluer ses outils : Passage de Oracle -> Snowflake car avantage de solution cloud donc plus efficace et mieux sécurisé.
+Parfois contraint ex de Talend qui se veut de plus en plus couteux et donc qu'on souhaite délaisser. 
 
 ### 3.2.2 Intégration avec les outils BI existants. 
+Parler du choix de ces outils et de la raison pour laquelle on les choisis. Qu'il est important d'avoir une certaine compatibilité entre les différents outils et qu'il n'est pas nécessaire d'avoir plusieurs outils similaires
+Définir le rôle précis de l'outil que l'on utilise. Montrer qu'il est aussi très difficile pour une entreprise de tout changer car cela impacte les habitudes et tout le travail réalisé en amont.
 
-## 3.3. Formation et culture organisationnelle ? (ou alors directement fusionné avec la 3.1 ? )
 
-### 3.3.1 Sensibilisation des collaborateurs à l'importance de la gouvernance des données.
 
-### 3.3.2 Développement d'une culture axée sur la qualité et la responsabilité des données. 
+## 3.3. Conformité réglementaire
 
-## 3.4. Conformité réglementaire
+### 3.3.1 Respect des réglementations en vigueur : RGPD, Data Governance Act.
+Constamment s'assurer de respecter la réglementation vis à vis du traitement des données
+Cas avec Google Analytics -> Matomo car google n'était plus reconnu comme un outil réglementaire et matomo est français.
 
-### 3.4.1 Respect des réglementations en vigueur : RGPD, Data Governance Act.
+### 3.3.2 Mise en place de mécanismes de contrôle et d'audit.
+Il est important de développer constamment des outils qui nous permettrons de contrôler plus efficacement la qualité des données et permettant d'assurer une certaine rigueur dans l'entreprise.
 
-### 3.4.2 Mise en place de mécanismes de contrôle et d'audit. 
+
 
 # Conclusion
 Synthèse : Récapitulation des procédures et initiatives essentielles pour une gouvernance efficace des données massives au service de la BI.
